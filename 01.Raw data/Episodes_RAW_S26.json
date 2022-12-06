@@ -1,0 +1,234 @@
+[
+    [
+        [
+            "No.overall",
+            "No. inseason",
+            "Title",
+            "Directed by",
+            "Written by",
+            "Original air date",
+            "Prod.code",
+            "U.S. viewers(millions)"
+        ],
+        [
+            "553",
+            "1",
+            "\"Clown in the Dumps\"",
+            "Steven Dean Moore",
+            "Joel H. Cohen",
+            "September 28, 2014 (2014-09-28)",
+            "SABF20",
+            "8.53[159]"
+        ],
+        [
+            "554",
+            "2",
+            "\"The Wreck of the Relationship\"",
+            "Chuck Sheetz",
+            "Jeff Westbrook",
+            "October 5, 2014 (2014-10-05)",
+            "SABF17",
+            "4.27[160]"
+        ],
+        [
+            "555",
+            "3",
+            "\"Super Franchise Me\"",
+            "Mark Kirkland",
+            "Bill Odenkirk",
+            "October 12, 2014 (2014-10-12)",
+            "SABF19",
+            "7.33[161]"
+        ],
+        [
+            "556",
+            "4",
+            "\"Treehouse of Horror XXV\"",
+            "Matthew Faughnan",
+            "Stephanie Gillis",
+            "October 19, 2014 (2014-10-19)",
+            "SABF21",
+            "7.76[162]"
+        ],
+        [
+            "557",
+            "5",
+            "\"Opposites A-Frack\"",
+            "Matthew Nastuk",
+            "Valentina L. Garza",
+            "November 2, 2014 (2014-11-02)",
+            "SABF22",
+            "4.22[163]"
+        ],
+        [
+            "558",
+            "6",
+            "\"Simpsorama\"",
+            "Bob Anderson",
+            "J. Stewart Burns",
+            "November 9, 2014 (2014-11-09)",
+            "SABF16",
+            "6.70[164]"
+        ],
+        [
+            "559",
+            "7",
+            "\"Blazed and Confused\"",
+            "Rob Oliver",
+            "Carolyn Omine & William Wright",
+            "November 16, 2014 (2014-11-16)",
+            "TABF01",
+            "6.70[165]"
+        ],
+        [
+            "560",
+            "8",
+            "\"Covercraft\"",
+            "Steven Dean Moore",
+            "Matt Selman",
+            "November 23, 2014 (2014-11-23)",
+            "TABF02",
+            "3.45[166]"
+        ],
+        [
+            "561",
+            "9",
+            "\"I Won't Be Home for Christmas\"",
+            "Mark Kirkland",
+            "Al Jean",
+            "December 7, 2014 (2014-12-07)",
+            "TABF03",
+            "6.52[167]"
+        ],
+        [
+            "562",
+            "10",
+            "\"The Man Who Came to Be Dinner\"",
+            "David Silverman",
+            "Al Jean & David Mirkin",
+            "January 4, 2015 (2015-01-04)",
+            "RABF15",
+            "10.62[168]"
+        ],
+        [
+            "563",
+            "11",
+            "\"Bart's New Friend\"",
+            "Bob Anderson",
+            "Judd Apatow",
+            "January 11, 2015 (2015-01-11)",
+            "TABF05",
+            "4.28[169]"
+        ],
+        [
+            "564",
+            "12",
+            "\"The Musk Who Fell to Earth\"",
+            "Matthew Nastuk",
+            "Neil Campbell",
+            "January 25, 2015 (2015-01-25)",
+            "TABF04",
+            "3.29[170]"
+        ],
+        [
+            "565",
+            "13",
+            "\"Walking Big & Tall\"",
+            "Chris Clements",
+            "Michael Price",
+            "February 8, 2015 (2015-02-08)",
+            "TABF06",
+            "2.78[171]"
+        ],
+        [
+            "566",
+            "14",
+            "\"My Fare Lady\"",
+            "Michael Polcino",
+            "Marc Wilmore",
+            "February 15, 2015 (2015-02-15)",
+            "TABF07",
+            "2.67[172]"
+        ],
+        [
+            "567",
+            "15",
+            "\"The Princess Guide\"",
+            "Timothy Bailey",
+            "Brian Kelley",
+            "March 1, 2015 (2015-03-01)",
+            "TABF08",
+            "3.93[173]"
+        ],
+        [
+            "568",
+            "16",
+            "\"Sky Police\"",
+            "Rob Oliver",
+            "Matt Selman",
+            "March 8, 2015 (2015-03-08)",
+            "TABF09",
+            "3.79[174]"
+        ],
+        [
+            "569",
+            "17",
+            "\"Waiting for Duffman\"",
+            "Steven Dean Moore",
+            "John Frink",
+            "March 15, 2015 (2015-03-15)",
+            "TABF10",
+            "3.59[175]"
+        ],
+        [
+            "570",
+            "18",
+            "\"Peeping Mom\"",
+            "Mark Kirkland",
+            "John Frink",
+            "April 19, 2015 (2015-04-19)",
+            "TABF11",
+            "3.23[176]"
+        ],
+        [
+            "571",
+            "19",
+            "\"The Kids Are All Fight\"",
+            "Bob Anderson",
+            "Rob LaZebnik",
+            "April 26, 2015 (2015-04-26)",
+            "TABF12",
+            "3.33[177]"
+        ],
+        [
+            "572",
+            "20",
+            "\"Let's Go Fly a Coot\"",
+            "Chris Clements",
+            "Jeff Westbrook",
+            "May 3, 2015 (2015-05-03)",
+            "TABF13",
+            "3.12[178]"
+        ],
+        [
+            "573",
+            "21",
+            "\"Bull-E\"",
+            "Lance Kramer",
+            "Tim Long",
+            "May 10, 2015 (2015-05-10)",
+            "TABF15",
+            "2.77[179]"
+        ],
+        [
+            "574",
+            "22",
+            "\"Mathlete's Feat\"",
+            "Michael Polcino",
+            "Michael Price",
+            "May 17, 2015 (2015-05-17)",
+            "TABF16",
+            "2.82[180]"
+        ]
+    ]
+]

@@ -1,0 +1,234 @@
+[
+    [
+        [
+            "No.overall",
+            "No. inseason",
+            "Title",
+            "Directed by",
+            "Written by",
+            "Original air date",
+            "Prod.code",
+            "U.S. viewers(millions)"
+        ],
+        [
+            "292",
+            "1",
+            "\"Treehouse of Horror XIII\"",
+            "David Silverman",
+            "Marc WilmoreBrian KelleyKevin Curran",
+            "November 3, 2002 (2002-11-03)",
+            "DABF19",
+            "16.7[242]"
+        ],
+        [
+            "293",
+            "2",
+            "\"How I Spent My Strummer Vacation\"",
+            "Mike B. Anderson",
+            "Mike Scully",
+            "November 10, 2002 (2002-11-10)",
+            "DABF22",
+            "12.5[243]"
+        ],
+        [
+            "294",
+            "3",
+            "\"Bart vs. Lisa vs. the Third Grade\"",
+            "Steven Dean Moore",
+            "Tim Long",
+            "November 17, 2002 (2002-11-17)",
+            "DABF20",
+            "13.3[244]"
+        ],
+        [
+            "295",
+            "4",
+            "\"Large Marge\"",
+            "Jim Reardon",
+            "Ian Maxtone-Graham",
+            "November 24, 2002 (2002-11-24)",
+            "DABF18",
+            "17.4[245]"
+        ],
+        [
+            "296",
+            "5",
+            "\"Helter Shelter\"",
+            "Mark Kirkland",
+            "Brian Pollack & Mert Rich",
+            "December 1, 2002 (2002-12-01)",
+            "DABF21",
+            "15.1[246]"
+        ],
+        [
+            "297",
+            "6",
+            "\"The Great Louse Detective\"",
+            "Steven Dean Moore",
+            "John Frink & Don Payne",
+            "December 15, 2002 (2002-12-15)",
+            "EABF01",
+            "15.5[247]"
+        ],
+        [
+            "298",
+            "7",
+            "\"Special Edna\"",
+            "Bob Anderson",
+            "Dennis Snee",
+            "January 5, 2003 (2003-01-05)",
+            "EABF02",
+            "15.0[248]"
+        ],
+        [
+            "299",
+            "8",
+            "\"The Dad Who Knew Too Little\"",
+            "Mark Kirkland",
+            "Matt Selman",
+            "January 12, 2003 (2003-01-12)",
+            "EABF03",
+            "12.8[249]"
+        ],
+        [
+            "300",
+            "9",
+            "\"The Strong Arms of the Ma\"",
+            "Pete Michels",
+            "Carolyn Omine",
+            "February 2, 2003 (2003-02-02)",
+            "EABF04",
+            "15.4[250]"
+        ],
+        [
+            "301",
+            "10",
+            "\"Pray Anything\"",
+            "Michael Polcino",
+            "Sam O'Neal & Neal Boushell",
+            "February 9, 2003 (2003-02-09)",
+            "EABF06",
+            "13.4[251]"
+        ],
+        [
+            "302",
+            "11",
+            "\"Barting Over\"",
+            "Matthew Nastuk",
+            "Andrew Kreisberg",
+            "February 16, 2003 (2003-02-16)",
+            "EABF05",
+            "21.3[252]"
+        ],
+        [
+            "303",
+            "12",
+            "\"I'm Spelling as Fast as I Can\"",
+            "Nancy Kruse",
+            "Kevin Curran",
+            "February 16, 2003 (2003-02-16)",
+            "EABF07",
+            "22.1[253]"
+        ],
+        [
+            "304",
+            "13",
+            "\"A Star Is Born Again\"",
+            "Michael Marcantel",
+            "Brian Kelley",
+            "March 2, 2003 (2003-03-02)",
+            "EABF08",
+            "14.4[254]"
+        ],
+        [
+            "305",
+            "14",
+            "\"Mr. Spritz Goes to Washington\"",
+            "Lance Kramer",
+            "John Swartzwelder",
+            "March 9, 2003 (2003-03-09)",
+            "EABF09",
+            "14.4[255]"
+        ],
+        [
+            "306",
+            "15",
+            "\"C.E.D'oh\"",
+            "Mike B. Anderson",
+            "Dana Gould",
+            "March 16, 2003 (2003-03-16)",
+            "EABF10",
+            "13.0[256]"
+        ],
+        [
+            "307",
+            "16",
+            "\"'Scuse Me While I Miss the Sky\"",
+            "Steven Dean Moore",
+            "Dan Greaney & Allen Glazier",
+            "March 30, 2003 (2003-03-30)",
+            "EABF11",
+            "12.6[257]"
+        ],
+        [
+            "308",
+            "17",
+            "\"Three Gays of the Condo\"",
+            "Mark Kirkland",
+            "Matt Warburton",
+            "April 13, 2003 (2003-04-13)",
+            "EABF12",
+            "12.02[258]"
+        ],
+        [
+            "309",
+            "18",
+            "\"Dude, Where's My Ranch?\"",
+            "Chris Clements",
+            "Ian Maxtone-Graham",
+            "April 27, 2003 (2003-04-27)",
+            "EABF13",
+            "11.71[259]"
+        ],
+        [
+            "310",
+            "19",
+            "\"Old Yeller-Belly\"",
+            "Bob Anderson",
+            "John Frink & Don Payne",
+            "May 4, 2003 (2003-05-04)",
+            "EABF14",
+            "11.59[260]"
+        ],
+        [
+            "311",
+            "20",
+            "\"Brake My Wife, Please\"",
+            "Pete Michels",
+            "Tim Long",
+            "May 11, 2003 (2003-05-11)",
+            "EABF15",
+            "10.56[261]"
+        ],
+        [
+            "312",
+            "21",
+            "\"The Bart of War\"",
+            "Michael Polcino",
+            "Marc Wilmore",
+            "May 18, 2003 (2003-05-18)",
+            "EABF16",
+            "12.10[262]"
+        ],
+        [
+            "313",
+            "22",
+            "\"Moe Baby Blues\"",
+            "Lauren MacMullan",
+            "J. Stewart Burns",
+            "May 18, 2003 (2003-05-18)",
+            "EABF17",
+            "13.44[262]"
+        ]
+    ]
+]
