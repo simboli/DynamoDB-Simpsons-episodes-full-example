@@ -3,7 +3,7 @@
 ![image](https://github.com/simboli/DynamoDB-Simpsons-episodes-full-example/blob/main/Homer.jpeg)
 
 ## List of workbooks
-001. Get raw data
+001. Get RAW data
 002. Transformations on RAW data
 003. DynamoDB create and populate table
 004. Read data from DynamoDB table
