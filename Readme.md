@@ -1,4 +1,13 @@
-# Full example of how to use DynamoDB with Python (boto3 module)
+# Full example of DynamoDB - Python - boto3: the Simpsons episodes
+
+## List of workbooks
+- 001. Get raw data
+- 002. Transformations on RAW data
+- 003. DynamoDB create and populate table
+- 004. Read data from DynamoDB table
+- 005. Insert, update and delete data from DynamoDB table.
+- 006. Drop table in DynamoDB
+
 
 #### Create a credentials file
 Open your favorite text editor and make a YAML file named credentials.yml like the following:
