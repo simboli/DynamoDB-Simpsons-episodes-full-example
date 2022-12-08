@@ -1,6 +1,6 @@
 # Full example of DynamoDB - Python - boto3: the Simpsons episodes
 
-![image](https://github.com/simboli/00.Media/DynamoDB-Simpsons-episodes-full-example/blob/main/Homer.jpeg)
+![Homer VS Bill Gates](https://github.com/simboli/DynamoDB-Simpsons-episodes-full-example/raw/main/00.Media/Homer.jpeg)
 
 ## List of workbooks
 001. Get RAW data
